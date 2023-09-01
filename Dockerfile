@@ -1,1 +1,1 @@
-FROM docker.n8n.io/n8nio/n8n:1.0.5
+FROM docker.n8n.io/n8nio/n8n:1.4.1
